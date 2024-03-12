@@ -1,6 +1,3 @@
-Unit 4: Arrays and ArrayLists
+APCSA Arrays Lab
 =====================
-
-*Standard 5 - Understand arrays and array lists and apply to programs*
-
-Projects for Unit 4 (Chapter 7)
+Signal in the Noise
