@@ -1,4 +1,5 @@
-Signals in Noise Lab
+Signals in Noise Lab  
+	Lab Document: https://docs.google.com/document/d/1GNOBmSKTAv5peuMHF6CCpKLp1T_GZNDBRCwW5PXOrS4/edit?usp=sharing
 
 # Introduction
 # 
